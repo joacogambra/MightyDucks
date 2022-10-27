@@ -70,7 +70,7 @@ nav a[href="#"] {
 }
 
 body {
-    background-image: linear-gradient(rgba(105, 17, 17, 0.566), rgba(9, 58, 16, 0.678)), url(/imgs/design1_image2.jpg);
+    background-image: linear-gradient(rgba(105, 17, 17, 0.566), rgba(9, 58, 16, 0.678)), url(./imgs/design1_image2.jpg);
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
